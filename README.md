@@ -10,4 +10,4 @@ Implémentation personnalisée d'un provider de cache en C# avec stratégie d'ex
 
 ## Stack
 
-C# / .NET Framework
+[![Stack](https://skillicons.dev/icons?i=dotnet,cs&theme=dark)](https://skillicons.dev)
